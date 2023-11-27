@@ -1,0 +1,11 @@
+2-
+a) Escrever B = 20
+   Escrever A,B = 10,5
+
+b)  C = A+b
+    C = 50
+    Escrever C = 50
+    Escrever B,C = 10,50
+    C = 30 + 10
+    C = 40
+    Escrever A,B,C = 30,10,40
