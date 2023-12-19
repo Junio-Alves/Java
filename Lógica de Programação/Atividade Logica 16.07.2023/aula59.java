@@ -7,7 +7,7 @@ public class aula59 {
         Scanner teclado = new Scanner(System.in);
         int valoresNegativos = 0;
         for(int i = 1; i <= 10; i++){
-            System.out.print("Digite um valor: ");
+            System.out.printf("Digite o %dº valor: ", i);
             int valor = teclado.nextInt();
             if(valor < 0){
                 valoresNegativos++;
